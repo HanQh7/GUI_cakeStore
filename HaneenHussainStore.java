@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-public class HaneenHussainStore {
+public class Cake_Store {
 JFrame frame; 
 JPanel panel1Product,panelInfo;
 JLabel Labelinfo,lb3addres,lb1,lb2;
